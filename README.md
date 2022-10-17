@@ -8,7 +8,7 @@ Hi!  Thanks for taking the time to take a glance at my profile, stay just a litt
 
 💬 Ask me about **CSS, JavaScript, React and Python**
 
-📫 For inquiries, you can reach me at: Charsdb@gmail.com
+📫 For inquiries, you can reach me at: **Charsdb@gmail.com**
 
 
 ### Connect with me: 
@@ -17,8 +17,7 @@ Hi!  Thanks for taking the time to take a glance at my profile, stay just a litt
 
 ### Languages and Tools: 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png
-" alt="Python" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="45"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt="drawing" width="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="35"/>
